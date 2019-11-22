@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1208.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DoctorMView">
+   <children>
+      <Pane layoutY="-1.0" prefHeight="109.0" prefWidth="1208.0" style="-fx-background-color: c8dad3;">
+         <children>
+            <Label layoutX="860.0" layoutY="76.0" text="东软云HIS医院管理系统" />
+            <Label layoutX="38.0" layoutY="25.0" text="门诊系统 Clinic System">
+               <font>
+                  <Font name="Microsoft YaHei UI Light" size="48.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="39.0" layoutY="122.0" prefHeight="36.0" prefWidth="72.0" style="-fx-background-color: c8dad3;" text="患者">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="PatientBox" layoutX="111.0" layoutY="122.0" prefHeight="36.0" prefWidth="620.0" promptText="ChoosePatient" style="-fx-background-color: f2f6f5;" />
+      <Label layoutX="59.0" layoutY="215.0" text="主诉">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="61.0" layoutY="257.0" text="病史">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <TextField fx:id="zhusu" layoutX="109.0" layoutY="209.0" prefHeight="30.0" prefWidth="350.0" />
+      <TextArea fx:id="history" layoutX="111.0" layoutY="257.0" prefHeight="95.0" prefWidth="601.0" />
+      <Label alignment="CENTER" layoutX="39.0" layoutY="360.0" prefHeight="36.0" prefWidth="72.0" style="-fx-background-color: c8dad3;" text="类型">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="TypeBox" layoutX="109.0" layoutY="360.0" prefHeight="36.0" prefWidth="169.0" promptText="ChooseType" style="-fx-background-color: f2f6f5;" />
+      <TableView fx:id="medicineTable" layoutX="37.0" layoutY="462.0" prefHeight="261.0" prefWidth="892.0">
+        <columns>
+          <TableColumn fx:id="id" prefWidth="106.0" text="编码" />
+          <TableColumn fx:id="name" prefWidth="144.0" text="名称" />
+            <TableColumn fx:id="form" prefWidth="108.0" text="规格" />
+            <TableColumn fx:id="price" prefWidth="106.0" text="单价" />
+            <TableColumn fx:id="usage" prefWidth="173.0" text="用法" />
+            <TableColumn fx:id="times" prefWidth="153.0" text="频次" />
+            <TableColumn fx:id="numbers" minWidth="5.0" prefWidth="101.0" text="数量" />
+        </columns>
+      </TableView>
+      <Button fx:id="delete" layoutX="857.0" layoutY="734.0" mnemonicParsing="false" onAction="#removeMedicine" prefHeight="30.0" prefWidth="72.0" style="-fx-background-color: c8dad3;" text="减药" />
+      <ComboBox fx:id="MedicineBox" layoutX="109.0" layoutY="412.0" prefHeight="36.0" prefWidth="539.0" promptText="ChooseMedicine" style="-fx-background-color: f2f6f5;" />
+      <Label alignment="CENTER" layoutX="37.0" layoutY="412.0" prefHeight="36.0" prefWidth="72.0" style="-fx-background-color: c8dad3;" text="开药">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="处方" alignment="CENTER" layoutX="39.0" layoutY="168.0" prefHeight="30.0" prefWidth="72.0" text="处方">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="chufang" layoutX="109.0" layoutY="168.0" prefHeight="30.0" prefWidth="215.0" />
+      <Button fx:id="delete1" layoutX="660.0" layoutY="412.0" mnemonicParsing="false" onAction="#showMedicine" prefHeight="36.0" prefWidth="82.0" style="-fx-background-color: c8dad3;" text="增药" />
+      <Pane layoutX="962.0" layoutY="108.0" prefHeight="692.0" prefWidth="246.0" style="-fx-background-color: f2f6f5;">
+         <children>
+            <VBox layoutY="45.0" prefHeight="121.0" prefWidth="246.0">
+               <children>
+                  <Button contentDisplay="RIGHT" mnemonicParsing="false" prefHeight="60.0" prefWidth="259.0" style="-fx-background-color: c8dad3;" text="我的患者">
+                     <font>
+                        <Font name="Microsoft YaHei UI Light" size="24.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" prefHeight="60.0" prefWidth="246.0" style="-fx-background-color: #d5e0db;" text="开立处方">
+                     <font>
+                        <Font name="Microsoft YaHei UI Light" size="24.0" />
+                     </font>
+                  </Button>
+               </children>
+            </VBox>
+            <Label layoutX="14.0" layoutY="14.0" text="MENU" />
+            <Button layoutY="566.0" mnemonicParsing="false" onAction="#addDetails" prefHeight="53.0" prefWidth="246.0" text="提交诊断" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd294342-5ae5-4fa8-9a1c-97dc55a541fc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/DoctorMView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="179" column="32" selection-start-line="179" selection-start-column="32" selection-end-line="179" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3857">
+              <caret line="290" column="33" selection-start-line="290" selection-start-column="33" selection-end-line="290" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#initialize#0;class#Register#0" />
+                <element signature="method#addBingliID#0;class#Register#0" />
+                <element signature="method#addBirth#0;class#Register#0" />
+                <element signature="method#calculateCharge#0;class#Register#0" />
+                <element signature="method#addDoctors#0;class#Register#0" />
+                <element signature="method#turnToReturnPage#0;class#Register#0" />
+                <element signature="method#turnToChargePage#0;class#Register#0" />
+                <element signature="method#turnToRefundPage#0;class#Register#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoctorM.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/Structure/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/Structure/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Data/Hospital/DiseaseTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/Hospital/Medicine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1974#1975#0" expanded="true" />
+                <element signature="e#2011#2012#0" expanded="true" />
+                <element signature="e#2071#2072#0" expanded="true" />
+                <element signature="e#2123#2124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/Patient/Record.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/Patient/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+              <folding>
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/Hospital/DiseaseNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+                <element signature="e#1030#1031#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Helvetica</find>
+      <find>font</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/logic/RegisterV.java" />
+        <option value="$PROJECT_DIR$/src/controller/DoctorGView.java" />
+        <option value="$PROJECT_DIR$/src/view/AddMedicine.fxml" />
+        <option value="$PROJECT_DIR$/src/Data/Hospital/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/Data/User/User.java" />
+        <option value="$PROJECT_DIR$/Records.txt" />
+        <option value="$PROJECT_DIR$/DoctorM.txt" />
+        <option value="$PROJECT_DIR$/src/view/DoctorGView诊断.fxml" />
+        <option value="$PROJECT_DIR$/src/Data/Hospital/MedicineItem.java" />
+        <option value="$PROJECT_DIR$/src/view/MakeSure.fxml" />
+        <option value="$PROJECT_DIR$/src/view/Charge.fxml" />
+        <option value="$PROJECT_DIR$/src/controller/item.java" />
+        <option value="$PROJECT_DIR$/src/controller/RegisterC.java" />
+        <option value="$PROJECT_DIR$/src/view/MedicineDistribution.fxml" />
+        <option value="$PROJECT_DIR$/src/controller/MedicineDistribution.fxml" />
+        <option value="$PROJECT_DIR$/src/Data/Hospital/Medicine.java" />
+        <option value="$PROJECT_DIR$/src/logic/LogicCharge.java" />
+        <option value="$PROJECT_DIR$/src/view/Refund.fxml" />
+        <option value="$PROJECT_DIR$/src/view/doctorR/Refund.fxml" />
+        <option value="$PROJECT_DIR$/src/Data/Others/FileUse.java" />
+        <option value="$PROJECT_DIR$/src/Data/UserData.java" />
+        <option value="$PROJECT_DIR$/DoctorG.txt" />
+        <option value="$PROJECT_DIR$/Administrator.txt" />
+        <option value="$PROJECT_DIR$/src/logic/LogicSetStatus.java" />
+        <option value="$PROJECT_DIR$/file/JMetrol.css" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Data/RecordData.java" />
+        <option value="$PROJECT_DIR$/src/Data/Patient/OneRecord.java" />
+        <option value="$PROJECT_DIR$/src/view/Warning.fxml" />
+        <option value="$PROJECT_DIR$/src/view/Invoice.fxml" />
+        <option value="$PROJECT_DIR$/src/view/Successful.fxml" />
+        <option value="$PROJECT_DIR$/src/view/WaningReturnR.fxml" />
+        <option value="$PROJECT_DIR$/src/view/WarningReturnR.fxml" />
+        <option value="$PROJECT_DIR$/src/controller/MedicineDistribution.java" />
+        <option value="$PROJECT_DIR$/src/controller/ReturnRegister.java" />
+        <option value="$PROJECT_DIR$/src/view/WarningCharge.fxml" />
+        <option value="$PROJECT_DIR$/src/controller/Charge.java" />
+        <option value="$PROJECT_DIR$/src/controller/Warning.java" />
+        <option value="$PROJECT_DIR$/src/logic/Login.java" />
+        <option value="$PROJECT_DIR$/src/controller/LoginC.java" />
+        <option value="$PROJECT_DIR$/src/logic/LogicDoctorM.java" />
+        <option value="$PROJECT_DIR$/src/view/WarningM.fxml" />
+        <option value="$PROJECT_DIR$/src/controller/Refund.java" />
+        <option value="$PROJECT_DIR$/medicine.txt" />
+        <option value="$PROJECT_DIR$/src/controller/DoctorMView.java" />
+        <option value="$PROJECT_DIR$/src/controller/Register.java" />
+        <option value="$PROJECT_DIR$/src/view/doctorR/000.fxml" />
+        <option value="$PROJECT_DIR$/src/Data/Structure/Node.java" />
+        <option value="$PROJECT_DIR$/src/Data/Hospital/DiseaseType.java" />
+        <option value="$PROJECT_DIR$/src/Data/Hospital/DiseaseNode.java" />
+        <option value="$PROJECT_DIR$/src/Data/Hospital/DiseaseTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Patient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="医疗系统" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="医疗系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="医疗系统" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Data/Structure" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\实训workplace\医疗系统\src\view\doctorM" />
+      <recent name="F:\实训workplace\医疗系统\src\view\doctorC" />
+      <recent name="F:\实训workplace\医疗系统\src\view\doctorR" />
+      <recent name="F:\实训workplace\医疗系统\src\view\DoctorG" />
+      <recent name="F:\实训workplace\医疗系统" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\工作\HIS实训 大一暑假\医疗系统\src\Data\Structure" />
+      <recent name="F:\实训workplace\医疗系统\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="医疗系统" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.ReturnRegister" />
+      <module name="医疗系统" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.Others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReturnRegister" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd294342-5ae5-4fa8-9a1c-97dc55a541fc" name="Default Changelist" comment="" />
+      <created>1563690161493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563690161493</updated>
+      <workItem from="1563690188372" duration="4617000" />
+      <workItem from="1563757769907" duration="23866000" />
+      <workItem from="1563845992132" duration="25454000" />
+      <workItem from="1563882683456" duration="4793000" />
+      <workItem from="1563934272319" duration="16871000" />
+      <workItem from="1563964280125" duration="1003000" />
+      <workItem from="1563965564973" duration="426000" />
+      <workItem from="1563971676572" duration="5215000" />
+      <workItem from="1564017250913" duration="26955000" />
+      <workItem from="1564103703954" duration="26853000" />
+      <workItem from="1564142103954" duration="3350000" />
+      <workItem from="1564381594565" duration="4169000" />
+      <workItem from="1564571277543" duration="702000" />
+      <workItem from="1565512920529" duration="13844000" />
+      <workItem from="1565759738736" duration="8412000" />
+      <workItem from="1565942501444" duration="3418000" />
+      <workItem from="1566475944154" duration="4241000" />
+      <workItem from="1566546845111" duration="31522000" />
+      <workItem from="1566722630712" duration="7600000" />
+      <workItem from="1566886350892" duration="1665000" />
+      <workItem from="1568037986233" duration="1430000" />
+      <workItem from="1568170733716" duration="13035000" />
+      <workItem from="1568539032553" duration="2136000" />
+      <workItem from="1568601300044" duration="11017000" />
+      <workItem from="1568778308173" duration="1390000" />
+      <workItem from="1568857165373" duration="3602000" />
+      <workItem from="1568883067381" duration="12711000" />
+      <workItem from="1568948366241" duration="20750000" />
+      <workItem from="1569056103449" duration="630000" />
+      <workItem from="1569112723821" duration="4256000" />
+      <workItem from="1573952605979" duration="6083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="292016000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8085868" visible="true" weight="0.16823056" />
+      <window_info id="Structure" order="1" sideWeight="0.19141324" side_tool="true" visible="true" weight="0.16823056" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25894135" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25167337" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23196605" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32673267" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controller/Charge.java</url>
+          <line>246</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$Main.ic" NAME="Main Coverage Results" MODIFIED="1563779639599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Data/Others/item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MakeSure.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/JMetrol.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#1593#0" />
+            <element signature="e#1606#1642#0" />
+            <element signature="e#1651#1744#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/value/ChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/下载内容chorm/jmetro-5.6.jar!/jfxtras/styles/jmetro8/JMetro.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JMetroLightTheme.css" />
+    <entry file="file://$PROJECT_DIR$/src/logic/RegisterV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/下载内容chorm/jmetro-5.6.jar!/jfxtras/styles/jmetro8/JMetroLightTheme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="135" column="21" lean-forward="true" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/下载内容chorm/jmetro-5.6.jar!/jfxtras/styles/jmetro/JMetroLightTheme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#1593#0" />
+            <element signature="e#1606#1642#0" />
+            <element signature="e#1651#1744#0" />
+            <element signature="e#1757#1881#0" />
+            <element signature="e#1883#2287#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/doctorR/Register.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="156" column="25" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/DoctorGView.java" />
+    <entry file="file://$PROJECT_DIR$/src/医疗系统controller.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="808.5" y="208.0">controller.LoginC</node>
+            <node x="583.3311594202899" y="208.0">logic.LogicDoctorM</node>
+            <node x="0.0" y="297.0">controller.Charge</node>
+            <node x="308.1644927536231" y="79.0">Data.RecordData</node>
+            <node x="661.5" y="79.0">Data.HospitalData</node>
+            <node x="464.33115942028985" y="208.0">controller.Register</node>
+            <node x="354.6644927536231" y="297.0">controller.Refund</node>
+            <node x="686.1103260869564" y="0.0">Data.UserData</node>
+            <node x="265.1644927536231" y="208.0">controller.ReturnRegister</node>
+            <node x="87.16449275362311" y="208.0">logic.LogicSetStatus</node>
+            <node x="814.5" y="79.0">logic.Login</node>
+            <node x="117.0" y="297.0">controller.MedicineDistribution</node>
+            <node x="611.0" y="297.0">controller.DoctorMView</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5211726384364821" x="451.0" y="163.0" />
+          <SelectedNodes>
+            <node>controller.ReturnRegister</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/HospitalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/RecordData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Patient/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-926">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Patient/OneRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2389#2390#0" expanded="true" />
+            <element signature="e#2418#2419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Invoice.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/LogicSetStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Successful.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="145" selection-start-line="10" selection-start-column="145" selection-end-line="10" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Warning.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WarningReturnR.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WarningCharge.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Warning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WarningM.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoctorG.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/doctorR/Refund.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="42" column="102" selection-start-line="42" selection-start-column="84" selection-end-line="42" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Charge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#turnToReturnPage#0;class#Charge#0" />
+            <element signature="method#pay#0;class#Charge#0" />
+            <element signature="method#calculateTempSumPrice#0;class#Charge#0" />
+            <element signature="method#calculateChange#0;class#Charge#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/MedicineDistribution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="121" column="24" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/医疗系统.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">Data.Hospital.Medicine</node>
+            <node x="" y="">controller.LoginC</node>
+            <node x="" y="">Data.Patient.OneRecord</node>
+            <node x="" y="">controller.Charge</node>
+            <node x="" y="">Data.User.DoctorG</node>
+            <node x="" y="">Data.Hospital.Doctor</node>
+            <node x="" y="">Data.User.DoctorM</node>
+            <node x="" y="">controller.Register</node>
+            <node x="" y="">Data.Hospital.Department</node>
+            <node x="" y="">Data.Others.item</node>
+            <node x="" y="">Data.UserData</node>
+            <node x="" y="">controller.ReturnRegister</node>
+            <node x="" y="">Data.Others.FileUse</node>
+            <node x="" y="">Data.Patient.Record</node>
+            <node x="" y="">Data.Patient.Register</node>
+            <node x="" y="">Data.Patient.Patient</node>
+            <node x="" y="">Data.Others.Invoice</node>
+            <node x="" y="">Data.RecordData</node>
+            <node x="" y="">Data.HospitalData</node>
+            <node x="" y="">controller.Refund</node>
+            <node x="" y="">Data.Others.RLevel</node>
+            <node x="" y="">Data.Others.RLevelData</node>
+            <node x="" y="">Data.User.User</node>
+            <node x="" y="">controller.MedicineDistribution</node>
+            <node x="" y="">controller.DoctorMView</node>
+            <node x="" y="">Data.User.Administrator</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9460674157303369" x="615.0" y="832.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Refund.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="187" column="49" lean-forward="true" selection-start-line="187" selection-start-column="49" selection-end-line="187" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ReturnRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Others/FileUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="141" column="1" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">Data.Hospital.Medicine</node>
+            <node x="" y="">controller.LoginC</node>
+            <node x="" y="">logic.LogicDoctorM</node>
+            <node x="" y="">Data.Patient.OneRecord</node>
+            <node x="" y="">Data.User.DoctorG</node>
+            <node x="" y="">controller.Charge</node>
+            <node x="" y="">Data.Hospital.Doctor</node>
+            <node x="" y="">Data.User.DoctorM</node>
+            <node x="" y="">controller.Register</node>
+            <node x="" y="">view</node>
+            <node x="" y="">Data.Hospital.Department</node>
+            <node x="" y="">Data.Others.item</node>
+            <node x="" y="">Data.UserData</node>
+            <node x="" y="">Data.Others.FileUse</node>
+            <node x="" y="">controller.ReturnRegister</node>
+            <node x="" y="">Data.Patient.Record</node>
+            <node x="" y="">logic.LogicSetStatus</node>
+            <node x="" y="">logic.Login</node>
+            <node x="" y="">Data.Patient.Register</node>
+            <node x="" y="">Data.Patient.Patient</node>
+            <node x="" y="">logic.RegisterV</node>
+            <node x="" y="">Data.RecordData</node>
+            <node x="" y="">Data.HospitalData</node>
+            <node x="" y="">controller.Refund</node>
+            <node x="" y="">Data.Others.RLevel</node>
+            <node x="" y="">Data.Others.RLevelData</node>
+            <node x="" y="">Data.User.User</node>
+            <node x="" y="">controller.MedicineDistribution</node>
+            <node x="" y="">Data.User.Administrator</node>
+            <node x="" y="">controller.DoctorMView</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.0846262341325811" x="6387.0" y="3848.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/LoginC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Administrator.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/LogicDoctorM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Records.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicine.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/DoctorMView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="179" column="32" selection-start-line="179" selection-start-column="32" selection-end-line="179" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3857">
+          <caret line="290" column="33" selection-start-line="290" selection-start-column="33" selection-end-line="290" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initialize#0;class#Register#0" />
+            <element signature="method#addBingliID#0;class#Register#0" />
+            <element signature="method#addBirth#0;class#Register#0" />
+            <element signature="method#calculateCharge#0;class#Register#0" />
+            <element signature="method#addDoctors#0;class#Register#0" />
+            <element signature="method#turnToReturnPage#0;class#Register#0" />
+            <element signature="method#turnToChargePage#0;class#Register#0" />
+            <element signature="method#turnToRefundPage#0;class#Register#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/doctorR/000.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoctorM.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Patient/Record.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Structure/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Hospital/Medicine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2011#2012#0" expanded="true" />
+            <element signature="e#2071#2072#0" expanded="true" />
+            <element signature="e#2123#2124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Patient/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+          <folding>
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Hospital/DiseaseNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Structure/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Hospital/DiseaseTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>医疗系统</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>FastJson</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

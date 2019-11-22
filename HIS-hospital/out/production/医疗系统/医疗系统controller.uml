@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="808.5" y="208.0">controller.LoginC</node>
+    <node x="583.3311594202899" y="208.0">logic.LogicDoctorM</node>
+    <node x="0.0" y="297.0">controller.Charge</node>
+    <node x="308.1644927536231" y="79.0">Data.RecordData</node>
+    <node x="661.5" y="79.0">Data.HospitalData</node>
+    <node x="464.33115942028985" y="208.0">controller.Register</node>
+    <node x="354.6644927536231" y="297.0">controller.Refund</node>
+    <node x="686.1103260869564" y="0.0">Data.UserData</node>
+    <node x="265.1644927536231" y="208.0">controller.ReturnRegister</node>
+    <node x="87.16449275362311" y="208.0">logic.LogicSetStatus</node>
+    <node x="814.5" y="79.0">logic.Login</node>
+    <node x="117.0" y="297.0">controller.MedicineDistribution</node>
+    <node x="611.0" y="297.0">controller.DoctorMView</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.5211726384364821" x="450.5" y="163.0" />
+  <SelectedNodes>
+    <node>controller.ReturnRegister</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

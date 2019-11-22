@@ -1,0 +1,15 @@
+{"name":"阿司匹林","form":"一盒---24粒","ID":2658462,"pinyin":"asipilin","price":26,"type":"西药","usage":"1"}
+{"name":"罗红霉素","form":"一盒---16粒","ID":4356742,"pinyin":"luohongmeisu","price":28,"type":"西药","usage":" "}
+{"name":"头孢","form":"一盒---12粒","ID":5794142,"pinyin":"toubao","price":21,"type":"西药","usage":" "}
+{"name":"青霉素","form":"一盒---16粒","ID":5813564,"pinyin":"qingmeisu","price":16,"type":"西药","usage":" "}
+{"name":"维C银翘片","form":"一袋---8粒","ID":5879564,"pinyin":"weiCyinqiaopian","price":19,"type":"西药","usage":" "}
+{"name":"布洛芬","form":"一袋---500g","ID":4652564,"pinyin":"buluofen","price":19,"type":"西药","usage":" "}
+{"name":"金银花","form":"1袋---100g","ID":4656213,"pinyin":"jinyinhua","price":8,"type":"中药","usage":" "}
+{"name":"菊花","form":"1袋---50g","ID":564312,"pinyin":"juhua","price":6,"type":"中药","usage":" "}
+{"name":"何首乌","form":"1袋---200g","ID":564312,"pinyin":"heshouwu","price":36,"type":"中药","usage":" "}
+{"name":"肉桂","form":"1袋---150g","ID":1652498,"pinyin":"rougui","price":24,"type":"中药","usage":" "}
+{"name":"虎m鞭","form":"1盒---100g","ID":631631,"pinyin":"hubian","price":75,"type":"中药","usage":" "}
+{"name":"板蓝根颗粒","form":"1盒---150g","ID":631631,"pinyin":"banlangenkeli","price":14,"type":"中药","usage":" "}
+{"name":"银黄口服液","form":"1盒---6支","ID":534645,"pinyin":"yinhuangkoufuye","price":8,"type":"中药","usage":" "}
+{"name":"双黄连口服液","form":"1盒---6支","ID":4535878,"pinyin":"shuanghuangliankoufuye","price":9,"type":"中药","usage":" "}
+{"name":"六味地黄丸","form":"1盒---50粒","ID":385941,"pinyin":"liuweidihuangwan","price":13 ,"type":"中药","usage":" "}

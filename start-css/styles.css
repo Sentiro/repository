@@ -1,0 +1,36 @@
+
+
+h1 {
+  color: red;
+}
+li {
+    list-style-type: none;
+}
+.special-one{
+    color: aquamarine;
+    font-weight: bold;
+}
+li em{
+    color: rebeccapurple;
+}
+h1+p{
+    font-size: 200%;
+}
+a:link {
+    color: saddlebrown;
+}
+a:visited {
+    color: greenyellow;
+}
+a:hover {
+    color: blueviolet;    
+}
+body {
+    background-color: pink;
+  }
+  
+  @media (min-width: 30em) {
+    body {
+      background-color: blue;
+    }
+  }
